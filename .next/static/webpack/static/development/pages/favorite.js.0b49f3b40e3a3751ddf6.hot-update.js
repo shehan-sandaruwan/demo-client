@@ -1,0 +1,22 @@
+webpackHotUpdate("static\\development\\pages\\favorite.js",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./public/utils.module.css":
+/*!************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./public/utils.module.css ***!
+  \************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(true);
+// Module
+exports.push([module.i, ".utils_topClearance__1t9SC {\r\n  margin-top: 80px;\r\n}\r\n\r\n.utils_cardPosition__384Mz {\r\n  margin: 0 auto; /* Added */\r\n  float: none; /* Added */\r\n  margin-bottom: 10px; /* Added */\r\n  margin-top: 10px;\r\n  width: 640px;\r\n}\r\n", "",{"version":3,"sources":["D:/Demo App/demo-app/public/utils.module.css"],"names":[],"mappings":"AAAA;EACE,gBAAgB;AAClB;;AAEA;EACE,cAAc,EAAE,UAAU;EAC1B,WAAW,EAAE,UAAU;EACvB,mBAAmB,EAAE,UAAU;EAC/B,gBAAgB;EAChB,YAAY;AACd","file":"utils.module.css","sourcesContent":[".topClearance {\r\n  margin-top: 80px;\r\n}\r\n\r\n.cardPosition {\r\n  margin: 0 auto; /* Added */\r\n  float: none; /* Added */\r\n  margin-bottom: 10px; /* Added */\r\n  margin-top: 10px;\r\n  width: 640px;\r\n}\r\n"]}]);
+// Exports
+exports.locals = {
+	"topClearance": "utils_topClearance__1t9SC",
+	"cardPosition": "utils_cardPosition__384Mz"
+};
+
+/***/ })
+
+})
+//# sourceMappingURL=favorite.js.0b49f3b40e3a3751ddf6.hot-update.js.map

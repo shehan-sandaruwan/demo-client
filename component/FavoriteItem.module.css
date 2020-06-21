@@ -1,0 +1,18 @@
+.cardPosition {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  margin-top: 10px;
+  width: 640px;
+}
+
+.imageSize {
+  position: absolute;
+  float: left;
+  max-width: 150px;
+  height: 130px;
+}
+
+.textPosition {
+  margin-left: 155px;
+}

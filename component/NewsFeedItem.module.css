@@ -1,0 +1,12 @@
+.cardPosition {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  margin-top: 10px;
+  width: 640px;
+}
+
+.imageSize {
+  width: 640px;
+  height: 439px;
+}
