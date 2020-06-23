@@ -9,6 +9,7 @@ click the button (show favorite) in order to view them.
 cd / demo-app
 npm install
 npm run dev
+http://localhost:3000  will be the url
 ```
 
 
